@@ -1,0 +1,46 @@
+header>h1{
+    font-size: 900%;
+    text-align:center;
+    position: relative;
+    bottom: 50px;
+}
+a{
+   color: black;
+    font-size:larger;
+    text-decoration: dotted;
+    border: 2px solid rgb(13, 1, 1);
+    background-color: rgb(247, 134, 237);
+    padding: 10px;
+}
+main>section>h1{
+    position: relative;
+    top: 120px;
+    left: 50px;
+    width: 200px;
+    border-radius: 50px;
+}
+main>section>h2{
+   
+    position: relative;
+    left: 300px;
+    top: 200px;
+    width: 400px;
+}
+main>section>h3{
+    position: relative;
+    left: 850px;
+    top: 30px;
+    font-size:larger ;
+    width: 200px;
+    border-radius: 50px;
+}
+main>section>h4{
+    position: relative;
+    left: 1150px;
+    top: 100px;
+    font-size: larger;
+    width: 400px;
+}
+body{
+    background-image:url("https://c4.wallpaperflare.com/wallpaper/78/537/151/orange-abstract-geometric-triangle-background-wallpaper-preview.jpg");
+}

@@ -1,0 +1,105 @@
+header>h1{
+    color: rgb(106, 172, 238);
+    font-size:1000%;
+    font-weight:100;
+    text-align: left;
+   font-style: italic;
+   
+    position: relative;
+    bottom: 0px;
+    left: 10px;
+}
+
+header>h2{
+    color: rgb(57, 221, 12);
+    font-size: 300%;
+    text-align: center;
+   position: relative;
+   bottom: 200px;
+    
+}
+header>h6{
+    position: relative;
+   top: 50px;
+   bottom: 40px;
+    font-size: 15px;
+    text-decoration: underline;
+}
+footer>h2{
+    text-align: center;
+    color: rgb(30, 30, 93);
+    text-decoration: underline;
+    position: relative;
+    bottom: 150px;
+}
+main>section>h1{
+    color: rgb(90, 90, 199);
+    position: relative;
+    left: 500px;
+   font-weight: 100;
+   font-size: medium;
+   
+  top: 120px;
+ 
+}
+main>section>h2{
+    position: relative;
+    font-size:medium;
+    font-weight: 100;
+   top: 160px;
+    left: 800px;
+   font:weight 250px;
+    
+}
+
+main>section>h4{
+    color: rgb(139, 185, 11);
+    position: relative;
+    bottom: 550px;
+    left: 1200px;
+   font:weight 250px;
+   
+}
+header>section>img{
+    position: relative;
+    left: 10px;
+    bottom:300px;
+    size: 50px;
+}
+
+main>section>h3{
+    position: relative;
+    left: 180px;
+    top: 200px;
+   
+
+}
+main>section>h5{
+    color:black;
+       position: relative;
+    left: 1230px;
+    font-size: large;
+    top: 60px;
+   
+}
+ main>section>a{
+   color: black;
+    font-size: 100%;
+    text-decoration:dotted;
+    object-position: 10em;
+   
+    position: relative;
+    left: 50px;
+ }
+ header>section>a{
+    color: aliceblue;
+ }
+ footer{
+    
+    font-size: 400%;
+    position:relative;
+    top: 300px;
+ }
+ body{
+    background-color: rgb(14, 198, 111);
+ }

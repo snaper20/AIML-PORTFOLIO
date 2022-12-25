@@ -1,0 +1,44 @@
+header>h1{
+    font-size: 900%;
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+}
+body{
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v897-wan-04_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=d0f402ea3a8ceb7583f2cb9cb355267b");
+    }
+a{
+    color: black;
+    font-size:large;
+    text-decoration: dotted;
+    border: 2px solid black;
+    padding: 10px;
+}
+main>h1{
+    position: relative;
+    left: 100px;
+}
+main>h2{
+    position: relative;
+    left: 350px;
+}
+main>h3{
+    position: relative;
+    left: 500px;
+    border-radius: 10px;
+   
+}
+main>h4{
+    position: relative;
+    left: 550px;
+    top: 100px;
+}
+main>h5{
+    position: relative;
+    left: 650px;
+    top: 120px;
+}
+button{
+    position: relative;
+    top: 500px;
+}
